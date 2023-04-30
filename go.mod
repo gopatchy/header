@@ -3,7 +3,7 @@ module github.com/gopatchy/header
 go 1.19
 
 require (
-	github.com/gopatchy/jsrest v0.0.0-20230427234754-bbc8de765b72
+	github.com/gopatchy/jsrest v0.0.0-20230428140817-2ae31b25545e
 	github.com/stretchr/testify v1.8.2
 )
 
