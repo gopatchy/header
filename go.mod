@@ -13,6 +13,6 @@ require (
 	github.com/gopatchy/metadata v0.0.0-20230424223338-33e58fee42bf // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/vfaronov/httpheader v0.1.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
